@@ -1,3 +1,3 @@
-# SWE101: Intro to Coding
+# Coding Basics
 
 ## DOM Starter Code
